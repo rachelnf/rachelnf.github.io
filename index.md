@@ -5,6 +5,8 @@ I am super eager to launch a career in technical writing; contact me or view my 
 
 I am Chicago, IL based and willing to work remotely.
 
+(This site is a work in progress.)
+
 <a href="https://docs.google.com/document/d/e/2PACX-1vTIRh03h2Wy7hYXQq31OL60RmJqYKwmTeldgaUTTSYY3L75WoAMx9MIZj64E18TIKHIVhLDt9llh32p/pub"> Resume</a> <br>
 
 <a href="mailto:rachelnflanders@gmail.com">Contact</a> <br>

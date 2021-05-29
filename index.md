@@ -1,5 +1,3 @@
-title: Rachel Flanders
-
 # Rachel Flanders
 Detail-oriented and quick-learning professional with impeccable writing skills and insatiable curiosity seeking to parse complex concepts and render them digestible for the average person. 
 

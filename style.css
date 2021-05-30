@@ -20,19 +20,12 @@ body {
   margin: 200px 300px 150px 300px;
 }
 
-/* unvisited link */
-a:link {
-  color: DodgerBlue;
-}
-
-/* visited link */
-a:visited {
-  color: Violet;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
+a:link, a:visited {
+ background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 
 }

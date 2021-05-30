@@ -39,7 +39,7 @@ p3 {
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 350%;
-  text-align: center;
+  text-align: left;
   
   a:link, a:visited {
  background-color: hotpink;

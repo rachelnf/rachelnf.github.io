@@ -10,4 +10,22 @@ small {
 
 body {
   font-family: "Helvetica", sans-serif;
+  
+}
+
+/* unvisited link */
+a:link {
+  color: Tomato;
+}
+
+/* visited link */
+a:visited {
+  color: Violet;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
 }

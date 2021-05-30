@@ -24,7 +24,6 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
   width: 200px;
-  height: 100px;
   margin: 20px;
 
 }
@@ -41,16 +40,6 @@ p3 {
   font-size: 350%;
   text-align: left;
   
-  a:link, a:visited {
- background-color: hotpink;
-  color: white;
-  padding: 50px 100px 50px 80px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  width: 200px;
-  height: 100px;
-  margin: 20px;
 
 }
 

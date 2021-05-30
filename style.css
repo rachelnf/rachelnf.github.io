@@ -23,20 +23,15 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 20px;
 
 }
 
 a:hover, a:active {
   background-color: #ADD8E6;
   
-}
-
-a:link {
-  width: 200px;
-  height: 100px;
-  padding: 50px 50px 50px 50px;
-  margin: 20px;
-  text-align: center;
 }
 
 p3 {

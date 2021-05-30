@@ -7,3 +7,7 @@ h1 {
 small {
   font-size: smaller;
 }
+
+body {
+  font-family: "Helvetica", sans-serif;
+}

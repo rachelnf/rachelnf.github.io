@@ -40,10 +40,20 @@ a:link {
 }
 
 p1 {
-  margin-right: 500px;
+  
+  text-align: center;
   
 }
 
 p2 {
+  
+  margin-right: 500px;
+  margin-left: 75px;
+  
+}
+
+p3 {
+  
+  margin-right: 75px;
   margin-left: 500px;
 }

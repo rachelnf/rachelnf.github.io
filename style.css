@@ -36,15 +36,11 @@ a:hover, a:active {
 }
 
 a:link {
-  text-align: center;
-}
-
-a:link {
   width: 200px;
   height: 100px;
-  border: 15px solid DodgerBlue;
   padding: 50px;
   margin: 20px;
+  text-align: center;
 }
 
 p3 {

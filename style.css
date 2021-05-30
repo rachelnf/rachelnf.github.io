@@ -1,16 +1,17 @@
 h1 {
   
-  color: purple;
+  color: MediumSeaGreen;
   
 }
 
+/* wip message */
 small {
   font-size: smaller;
 }
 
 body {
   font-family: "Helvetica", sans-serif;
-  
+  text-align: center;
 }
 
 /* unvisited link */

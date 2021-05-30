@@ -23,7 +23,7 @@ body {
 a:link, a:visited {
  background-color: DodgerBlue;
   color: white;
-  padding: 14px 25px;
+  padding: 14px 25px 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;

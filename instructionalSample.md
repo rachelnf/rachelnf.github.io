@@ -47,12 +47,15 @@
 
   
        ![6](https://user-images.githubusercontent.com/62654821/120139910-14ed7800-c19f-11eb-977b-e7e3560f0961.JPG)
-
-   
-   ✓ You can request a span of time within a day off, or select “All Day” to request the full day off. You can also add a comment with your request for your scheduling managers to view.
+       
+       
+       ✓ You can request a span of time within a day off, or select “All Day” to request the full day off. You can also add a comment with your request for your scheduling managers to view.
    
   
+  
    8. Tap “Save” in the upper right corner.
+  
+  
    
       ✓ You will then see the submitted request under “Pending” on the screen, until it is approved or denied.
 

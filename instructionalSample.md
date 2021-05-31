@@ -5,30 +5,31 @@
 
 2.Tap the three-line menu icon in the upper left corner of the screen.
 
-3. Tap “Time Away.”
+
+  3. Tap “Time Away.”
 
 
-✓ Here, you can keep track of various Time Away requests, including pending requests, pending cancellations of requests, and denied requests.
-4. Tap the three circles icon in the upper right corner of the screen.
+  ✓ Here, you can keep track of various Time Away requests, including pending requests, pending cancellations of requests, and denied requests.
+  4. Tap the three circles icon in the upper right corner of the screen.
 
 
-5. Tap “New Request.”
+  5. Tap “New Request.”
 
 
-✓ Here, you can also view official company holidays, your Absence Reserve (AR) balances, and comments from management.
-6. If you want to cover your time off with your AR, tap “02 - AR - Paid.” If you do not want to use AR, or do not have enough AR, tap “03 - Unpaid Leave of Absence - Not Paid.”
+  ✓ Here, you can also view official company holidays, your Absence Reserve (AR) balances, and comments from management.
+  6. If you want to cover your time off with your AR, tap “02 - AR - Paid.” If you do not want to use AR, or do not have enough AR, tap “03 - Unpaid Leave of Absence - Not Paid.”
 
 
 
-✓ Note: If you do not have enough AR to fully cover your request when choosing “02 - AR - Paid,” the request will not go through. Check your balances on this screen, or the previous one.
-7. Select the period of time you wish to request off.
+  ✓ Note: If you do not have enough AR to fully cover your request when choosing “02 - AR - Paid,” the request will not go through. Check your balances on this screen, or the previous one.
+  7. Select the period of time you wish to request off.
 
 
-✓ You can request a span of time within a day off, or select “All Day” to request the full day off. You can also add a comment with your request for your scheduling managers to view.
-8. Tap “Save” in the upper right corner.
+  ✓ You can request a span of time within a day off, or select “All Day” to request the full day off. You can also add a comment with your request for your scheduling managers to view.
+  8. Tap “Save” in the upper right corner.
 ✓ You will then see the submitted request under “Pending” on the screen, until it is approved or denied.
 
-Version History
+  **Version History**
 
 Date
 Name

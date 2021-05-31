@@ -1,6 +1,8 @@
 # Requesting Time Off in Dayforce App for iOS
 1. Sign in to your Trader Joe’s Dayforce account on your iOS mobile device.
-2. Tap the three-line menu icon in the upper left corner of the screen.
+![1](https://user-images.githubusercontent.com/62654821/120139916-161ea500-c19f-11eb-8b3e-ae9e17c0f6a3.JPG)
+
+2.Tap the three-line menu icon in the upper left corner of the screen.
 
 3. Tap “Time Away.”
 

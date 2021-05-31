@@ -53,7 +53,8 @@
    
   
    8. Tap “Save” in the upper right corner.
-  ✓ You will then see the submitted request under “Pending” on the screen, until it is approved or denied.
+   
+      ✓ You will then see the submitted request under “Pending” on the screen, until it is approved or denied.
 
   _**Version History**_
   

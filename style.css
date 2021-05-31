@@ -30,6 +30,7 @@ a:link, a:visited {
 
 a:hover, a:active {
   background-color: #ADD8E6;
+  color: white;
   
 }
 
